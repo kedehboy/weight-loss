@@ -57,7 +57,7 @@ function Testimonials() {
 
 
           {/* Testimonials */}
-          <div className='grid grid-cols-2 gap-5'>
+          <div className='grid grid-cols-1'>
             <div className='max-w-3xl mx-auto mt-20' data-aos='zoom-y-out'>
               <div className='relative flex items-start border-2 border-gray-200 rounded bg-white'>
                 {/* Testimonial */}
