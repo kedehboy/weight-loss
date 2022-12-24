@@ -48,7 +48,7 @@ function HeroHome() {
               className='text-5xl md:text-4xl font-bold leading-tighter tracking-tighter mb-4'
               data-aos='zoom-y-out'
             >
-              <span className='bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400'>
+              <span className='bg-clip-text text-transparent bg-gradient-to-r from-green-500 to-teal-400'>
                 60
               </span>{' '}
               - Days Weightloss Push Group
@@ -57,7 +57,7 @@ function HeroHome() {
               className='text-5xl md:text-4xl font-bold leading-tighter tracking-tighter mb-4'
               data-aos='zoom-y-out'
             >
-              <span className='bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400'>
+              <span className='bg-clip-text text-transparent bg-gradient-to-r from-green-500 to-teal-400'>
                 +100
               </span>
               - Different smoothie recipe.
@@ -77,7 +77,7 @@ function HeroHome() {
               >
                 <div>
                   <a
-                    className='btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0'
+                    className='btn text-white bg-green-600 hover:bg-[#1CBD6726] hover:text-black w-full mb-4 sm:w-auto sm:mb-0'
                     href='#0'
                   >
                     Start your journey now!
